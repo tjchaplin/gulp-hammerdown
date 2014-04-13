@@ -5,6 +5,7 @@ gulp-hammerdown
 
 *Issues with the output should be reported on the hammerdown [issue tracker](https://github.com/tjchaplin/hammerdown/issues).*
 
+[![Build Status](https://travis-ci.org/tjchaplin/gulp-hammerdown.svg?branch=master)](https://travis-ci.org/tjchaplin/gulp-hammerdown)
 
 ## Install
 
