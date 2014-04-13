@@ -1,0 +1,42 @@
+{
+  "name": "gulp-hammerdown",
+  "version": "0.0.1",
+  "description": "Gulp plugin for using hammerdown(A markdown to html generator)",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/tjchaplin/gulp-hammerdown.git"
+  },
+  "keywords": [
+    "gulpplugin",
+    "html",
+    "markdown",
+    "md",
+    "tomarkdown",
+    "html-md",
+    "converter",
+    "hammerdown",
+    "stream",
+    "converter",
+    "hammer",
+    "writer",
+    "fluent"
+  ],
+  "author": "Tim Chaplin <tim.chaplin@ticktockdevelopment.com> (http://tjchaplin.github.io/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tjchaplin/gulp-hammerdown/issues"
+  },
+  "devDependencies": {
+    "vinyl": "~0.2.3"
+  },
+  "dependencies": {
+    "hammerdown": "0.0.18",
+    "through2": "~0.4.1",
+    "gulp-util": "~2.2.14",
+    "concat-stream": "~1.4.4"
+  }
+}
