@@ -1,7 +1,7 @@
 gulp-hammerdown
 ===============
 
-> Gulp plugin for using [hammerdown](https://github.com/tjchaplin/hammerdown) (A markdown to html generator) 
+> Gulp plugin for using [hammerdown](https://github.com/tjchaplin/hammerdown) (An html to markdown generator) 
 
 *Issues with the output should be reported on the hammerdown [issue tracker](https://github.com/tjchaplin/hammerdown/issues).*
 
