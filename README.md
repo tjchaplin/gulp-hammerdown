@@ -1,9 +1,9 @@
 gulp-hammerdown
 ===============
 
-> Gulp plugin for using [hammerdown](https://github.com/tjchaplin/hammerdown) (An html to markdown generator) 
+> Gulp plugin for using [hammerdown](https://github.com/tjchaplin/hammerdown) (streaming html to markdown generator)",
 
-*Issues with the output should be reported on the hammerdown [issue tracker](https://github.com/tjchaplin/hammerdown/issues).*
+* Issues with the output should be reported on the hammerdown [issue tracker](https://github.com/tjchaplin/hammerdown/issues).*
 
 [![Build Status](https://travis-ci.org/tjchaplin/gulp-hammerdown.svg?branch=master)](https://travis-ci.org/tjchaplin/gulp-hammerdown)
 
