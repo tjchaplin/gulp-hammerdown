@@ -1,6 +1,6 @@
 {
   "name": "gulp-hammerdown",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Gulp plugin for using hammerdown(streaming html to markdown generator)",
   "main": "index.js",
   "scripts": {
