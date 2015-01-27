@@ -34,7 +34,7 @@
     "vinyl": "~0.4.6"
   },
   "dependencies": {
-    "hammerdown": "1.0.1",
+    "hammerdown": "2.0.1",
     "through2": "~0.6.3",
     "gulp-util": "~3.0.2",
     "concat-stream": "~1.4.7"
